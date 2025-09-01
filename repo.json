@@ -1,20 +1,21 @@
 [
   {
-    "name": "AdaptiveFPS",
-    "internalName": "AdaptiveFPS",
-    "author": "h1arc",
-    "punchline": "Change framerate depending on combat status.",
-    "description": "Automatically switches the game's system 'Frame Rate' between Main Display (option 2), 60 (option 3), and 30 (option 4) based on combat status.",
-    "repoUrl": "https://github.com/h1arc/adaptivefps",
-    "tags": [
+    "Author": "h1arc",
+    "Name": "AdaptiveFPS",
+    "Punchline": "Change framerate depending on combat status.",
+    "Description": "Automatically switches the game's system 'Frame Rate' between Main Display (option 2), 60 (option 3), and 30 (option 4) based on combat status.",
+    "InternalName": "AdaptiveFPS",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/h1arc/adaptivefps",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "Tags": [
       "fps",
       "framerate",
       "combat",
       "performance"
     ],
-    "assemblyVersion": "1.0.0.0",
-    "dalamudApiLevel": 13,
-    "downloadLinkInstall": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip",
-    "downloadLinkUpdate": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip"
+    "DownloadLinkInstall": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip"
   }
 ]
