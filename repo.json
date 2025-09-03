@@ -17,58 +17,5 @@
     "DalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip"
-  },
-  [
-  {
-    "Name": "AdaptiveFPS",
-    "InternalName": "AdaptiveFPS",
-    "Author": "h1arc",
-    "Punchline": "Change framerate depending on combat status.",
-    "Description": "Automatically switches the game's system 'Frame Rate' between Main Display (option 2), 60 (option 3), and 30 (option 4) based on combat status.",
-    "RepoUrl": "https://github.com/h1arc/adaptivefps",
-    "Tags": [
-      "fps",
-      "framerate",
-      "combat",
-      "performance"
-    ],
-    "AssemblyVersion": "1.0.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/h1arc/adaptivefps/releases/download/v1.0.0.0/AdaptiveFPS_v1.0.0.0.zip"
-  },
-  {
-    "Author": "h1arc",
-    "Name": "Wrath Combo - h1arc fork",
-    "InternalName": "WrathCombo",
-    "AssemblyVersion": "1.0.2.7",
-    "Description": "WrathCombo fork with personal optimizations and tweaks.",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "RepoUrl": "https://github.com/h1arc/WrathCombo",
-    "Tags": [
-      "combo",
-      "wrath",
-      "fork"
-    ],
-    "CategoryTags": [
-      "jobs"
-    ],
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/h1arc/WrathCombo/main/res/plugin/wrathcombo.png"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/h1arc/WrathCombo/main/res/plugin/wrathcombo.png",
-    "DownloadLinkInstall": "https://github.com/h1arc/WrathCombo/releases/download/v1.0.2.7/WrathCombo-1.0.2.7-h1arc.zip ",
-    "DownloadLinkUpdate": "https://github.com/h1arc/WrathCombo/releases/download/v1.0.2.7/WrathCombo-1.0.2.7-h1arc.zip ",
-    "DownloadLinkTesting": "",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdate": 0,
-    "LoadPriority": 0,
-    "Punchline": "Condenses combos onto a single button, plus fork tweaks.",
-    "AcceptedDalamudVersions": null,
-    "Changelog": "h1arc fork: sync with upstream, minor retargeting fixes."
   }
-]
 ]
