@@ -13,7 +13,6 @@
       "performance"
     ],
     "AssemblyVersion": "1.1.0.0",
-    "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadLinkInstall": "https://github.com/h1arc/adaptivefps/releases/download/v1.1.0.0/AdaptiveFPS_v1.1.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/h1arc/adaptivefps/releases/download/v1.1.0.0/AdaptiveFPS_v1.1.0.0.zip"
